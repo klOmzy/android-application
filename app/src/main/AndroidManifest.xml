@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ApexLegendsInfo"
+        tools:targetApi="31">
+        <activity
+            android:name=".search"
+            android:exported="false" />
+        <activity
+            android:name=".pistols"
+            android:exported="false" />
+        <activity
+            android:name=".shotguns"
+            android:exported="false" />
+        <activity
+            android:name=".sniper"
+            android:exported="false" />
+        <activity
+            android:name=".marks"
+            android:exported="false" />
+        <activity
+            android:name=".light"
+            android:exported="false" />
+        <activity
+            android:name=".smg"
+            android:exported="false" />
+        <activity
+            android:name=".ar"
+            android:exported="false" />
+        <activity
+            android:name=".guns"
+            android:exported="false" />
+        <activity
+            android:name=".senscalc"
+            android:exported="false" />
+        <activity
+            android:name=".newcas"
+            android:exported="false" />
+        <activity
+            android:name=".gibby"
+            android:exported="false" />
+        <activity
+            android:name=".loba"
+            android:exported="false" />
+        <activity
+            android:name=".ll"
+            android:exported="false" />
+        <activity
+            android:name=".catalyst"
+            android:exported="false" />
+        <activity
+            android:name=".rampart"
+            android:exported="false" />
+        <activity
+            android:name=".watson"
+            android:exported="false" />
+        <activity
+            android:name=".caustic"
+            android:exported="false" />
+        <activity
+            android:name=".vantage"
+            android:exported="false" />
+        <activity
+            android:name=".seer"
+            android:exported="false" />
+        <activity
+            android:name=".crypto"
+            android:exported="false" />
+        <activity
+            android:name=".blood"
+            android:exported="false" />
+        <activity
+            android:name=".path"
+            android:exported="false" />
+        <activity
+            android:name=".valk"
+            android:exported="false" />
+        <activity
+            android:name=".horizon"
+            android:exported="false" />
+        <activity
+            android:name=".octane"
+            android:exported="false" />
+        <activity
+            android:name=".mirage"
+            android:exported="false" />
+        <activity
+            android:name=".wraith"
+            android:exported="false" />
+        <activity
+            android:name=".rev"
+            android:exported="false" />
+        <activity
+            android:name=".bang"
+            android:exported="false" />
+        <activity
+            android:name=".mag"
+            android:exported="false" />
+        <activity
+            android:name=".fuse"
+            android:exported="false" />
+        <activity
+            android:name=".ash"
+            android:exported="false" />
+        <activity
+            android:name=".legends"
+            android:exported="false" />
+        <activity
+            android:name=".FullBM"
+            android:exported="false" />
+        <activity
+            android:name=".FullSP"
+            android:exported="false" />
+        <activity
+            android:name=".FullOlympus"
+            android:exported="false" />
+        <activity
+            android:name=".FullWE"
+            android:exported="false" />
+        <activity
+            android:name=".FullCanyon"
+            android:exported="false" />
+        <activity
+            android:name=".BM"
+            android:exported="false" />
+        <activity
+            android:name=".SP"
+            android:exported="false" />
+        <activity
+            android:name=".Olympus"
+            android:exported="false" />
+        <activity
+            android:name=".WE"
+            android:exported="false" />
+        <activity
+            android:name=".Canyon"
+            android:exported="false" />
+        <activity
+            android:name=".maps"
+            android:exported="false" />
+        <activity
+            android:name=".InformationAL"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
