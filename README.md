@@ -1,2 +1,16 @@
-﻿# android-application
-Simple android information application based on Apex Legends game
+# ndroid-application
+--------------------------------------------------
+
+## Содержание
+
+- [Запуск приложения](#запуск-приложения)
+- [О приложении](#о-приложении)
+
+## Запуск приложения
+
+Необходимо скачать [последнюю версию apk файла](https://github.com/klOmzy/android-application/releases/tag/release) для установки приложения на Android.
+
+## О приложении
+
+Простое мобильное приложение на Android, которое содержит различную информацию об игре Apex Legends для лучшего понимания данной игры.
+
